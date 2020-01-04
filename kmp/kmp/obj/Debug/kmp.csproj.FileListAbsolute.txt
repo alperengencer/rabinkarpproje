@@ -1,0 +1,9 @@
+C:\Users\alper\source\repos\kmp\kmp\bin\Debug\kmp.exe.config
+C:\Users\alper\source\repos\kmp\kmp\bin\Debug\kmp.exe
+C:\Users\alper\source\repos\kmp\kmp\bin\Debug\kmp.pdb
+C:\Users\alper\source\repos\kmp\kmp\obj\Debug\kmp.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\kmp\kmp\obj\Debug\kmp.Form1.resources
+C:\Users\alper\source\repos\kmp\kmp\obj\Debug\kmp.Properties.Resources.resources
+C:\Users\alper\source\repos\kmp\kmp\obj\Debug\kmp.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\kmp\kmp\obj\Debug\kmp.exe
+C:\Users\alper\source\repos\kmp\kmp\obj\Debug\kmp.pdb
